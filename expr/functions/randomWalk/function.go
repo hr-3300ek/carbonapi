@@ -2,7 +2,7 @@ package randomWalk
 
 import (
 	"context"
-	"math/rand"
+	"crypto/rand"
 
 	"github.com/go-graphite/carbonapi/expr/interfaces"
 	"github.com/go-graphite/carbonapi/expr/types"

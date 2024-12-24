@@ -2,7 +2,7 @@ package parser
 
 import (
 	"strings"
-	"text/template"
+	"html/template"
 )
 
 type defineStruct struct {

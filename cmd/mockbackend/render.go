@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 	"math"
-	"math/rand"
+	"crypto/rand"
 	"net/http"
 	"time"
 

@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"io"
-	"math/rand"
+	"crypto/rand"
 	"net/http"
 	"strings"
 	"time"
